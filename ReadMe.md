@@ -1,9 +1,9 @@
-<h1 align="center">Hi ??, I'm Irshad Ahamed M B</h1>
+<h1 align="center">Hi 👋, I'm Irshad Ahamed M B</h1>
 <h3 align="center">Head of Product Engineering at SapphireIMS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshadmb&label=Profile%20views&color=0e75b6&style=flat" alt="irshadmb" /> </p>
 
-- ?? I’m currently working on [www.sapphireims.com](www.sapphireims.com)
+- 🔭 I’m currently working on [www.sapphireims.com](www.sapphireims.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
