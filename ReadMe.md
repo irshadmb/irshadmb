@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irshad Ahamed M B</h1>
-<h3 align="center">Head Engineering at SapphireIMS</h3>
+<h3 align="center">Head Engineering @ SapphireIMS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshadmb&label=Profile%20views&color=0e75b6&style=flat" alt="irshadmb" /> </p>
 
