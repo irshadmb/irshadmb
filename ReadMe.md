@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Irshad Ahamed M B</h1>
 <h3 align="center">Head Engineering @ SapphireIMS</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&random=false&width=635&lines=Expert+in+Leveraging+Langchain;Driving+AI-Enhanced+Workflow+Automation)](https://git.io/typing-svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irshadmb&label=Profile%20views&color=0e75b6&style=flat" alt="irshadmb" /> </p>
 
 
