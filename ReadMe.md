@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Irshad Ahamed M B</h1>
 <h3 align="center">Head Engineering @ SapphireIMS</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&random=false&width=635&lines=Expert+in+Leveraging+Langchain;Driving+AI-Enhanced+Workflow+Automation)](https://git.io/typing-svg)
-
 <a href="https://app.daily.dev/irshadmb"><img src="https://api.daily.dev/devcards/v2/o7vqCBHcTjorp4nq3BbTS.png?r=4ey&type=default" width="356" alt="Irshad Ahamed.M.B's Dev Card"/></a>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irshadahamed/)
