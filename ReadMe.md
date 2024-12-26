@@ -74,7 +74,6 @@ I'm a passionate engineering leader with extensive experience in full-stack deve
 
 ### 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/irshadahamed/)
-- 📧 [Email](mailto:irshadmb@gmail.com)
 
 ---
 <div align="center">
